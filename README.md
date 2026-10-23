@@ -1,6 +1,6 @@
 # Bound-Conditioned Latent Inference for Progressive Image Compression (BLI)
 
-Official evaluation code for **"Bound-Conditioned Latent Inference for Progressive Image Compression" (NeurIPS 2026)**.
+Official evaluation code for **["Bound-Conditioned Latent Inference for Progressive Image Compression"](https://arxiv.org/abs/2610.30966) (NeurIPS 2026)**.
 
 ## 1. Requirements
 
@@ -87,6 +87,6 @@ Please cite the following paper when you use this repository. Thanks!
 }
 ```
 
-## 6. License and third-party notices
+## 6. License
 
 See [MIT License](LICENSE)
