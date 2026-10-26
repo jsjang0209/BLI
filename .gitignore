@@ -1,0 +1,37 @@
+# Python cache and build artifacts
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.o
+build/
+dist/
+*.egg-info/
+
+# Local editors and OS files
+.idea/
+.vscode/
+.DS_Store
+
+# Experiment outputs and generated bitstreams
+/result/
+/result_*/
+/results/
+/results_*/
+*.bin
+
+# Downloaded datasets and model checkpoints
+/data/
+/datasets/
+/test_images/
+/checkpoint/*
+!/checkpoint/.gitkeep
+*.pth
+*.pt
+*.ckpt
+
+# Local / temporary files
+.env
+.env.*
+*.log
+*.tmp
